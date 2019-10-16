@@ -1,0 +1,1 @@
+用于SpringConfig管理配置文件
