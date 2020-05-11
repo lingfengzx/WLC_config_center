@@ -6,7 +6,7 @@
 spring:
   profiles: dev
   application:
-    name: spring-cloud-config-eureka-client
+    name: eureka-server-high
 #开启权限认证
   security: 
     basic:
@@ -30,7 +30,7 @@ eureka:
 spring:
   profiles: test
   application:
-    name: spring-cloud-config-eureka-client
+    name: eureka-server-high
 #开启权限认证
   security: 
     basic:
