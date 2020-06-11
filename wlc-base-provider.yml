@@ -13,7 +13,7 @@ spring:
       - http://123.56.110.16:9200
       read-timeout: 5000
 server:
-  port: 8078
+  port: 8001
 
 eureka:
   client:
